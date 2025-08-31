@@ -1,4 +1,5 @@
-<img width="1920" height="931" alt="2025-08-26 (1)" src="https://github.com/user-attachments/assets/e545328b-c5a8-4089-9b14-53122cc3ed9d" />
+<img width="1909" height="983" alt="Screenshot 2025-09-01 022701" src="https://github.com/user-attachments/assets/67632730-1d70-4a68-be7b-2edad8d1e445" />
+
 # AI Tools Hub
 
 AI Tools Hub is a full-stack web platform that integrates multiple AI-powered tools into a single, user-friendly hub.  
